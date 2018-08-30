@@ -1,6 +1,10 @@
 {
   "name": "visual",
   "dependencies": {
+    "leaflet": "^1.3.4",
     "powerbi-visuals-utils-dataviewutils": "1.2.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.2.10"
   }
 }

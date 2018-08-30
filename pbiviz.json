@@ -18,6 +18,8 @@
     "icon": "assets/icon.png"
   },
   "externalJS": [
+    "node_modules/leaflet/dist/leaflet.js",
+    "inject.js",
     "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js"
   ],
   "style": "style/visual.less",

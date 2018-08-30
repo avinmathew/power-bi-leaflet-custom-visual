@@ -24,7 +24,7 @@
  *  THE SOFTWARE.
  */
 
-module powerbi.extensibility.visual {
+module powerbi.extensibility.visual.leafletCustomVisualB1FE9BC80DD14510A09DB3B7D9E5289D  {
     "use strict";
     export class Visual implements IVisual {
         private target: HTMLElement;
